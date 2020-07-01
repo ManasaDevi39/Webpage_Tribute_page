@@ -1,0 +1,13 @@
+img{
+   max-width: 100%;
+  display:block;
+  height:auto;
+ margin: auto auto auto auto;
+}
+h1{
+  text-align:center;
+}
+figcaption{
+  font-size:2em;
+  text-align:center;
+}
